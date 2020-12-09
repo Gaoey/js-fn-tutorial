@@ -13,7 +13,7 @@ function symmetric_test() {
     },
     {
       input: "ama",
-      expected: true
+      expected: false
     }
   ]
 
